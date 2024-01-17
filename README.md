@@ -1,5 +1,16 @@
-## Next.js App Router Course - Starter
+# NEXTJS - 14
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## DAY 0 
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+- [x] Getting Started
+- [x] CSS Styling
+- [x] Optimizing Fonts and Images
+- [x] Creating Layouts and Pages
+- [x] Navigating Between Pages
+- [x] Setting Up Your Database
+- [x] Fetching Data
+
+## DAY 1
+
+- [ ] Static and Dynamic Rendering
+
